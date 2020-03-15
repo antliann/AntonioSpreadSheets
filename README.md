@@ -1,4 +1,4 @@
-# Antonio-SpreadSheets
+# AntonioSpreadSheets
 
 Some app like Excel, where you can work with tables and formulas
 
